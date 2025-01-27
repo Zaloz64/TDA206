@@ -1,2 +1,2 @@
 # TDA206
-Repository for the course TDA206
+Labbassignments for the course Discrete optimization lp3 VT25
